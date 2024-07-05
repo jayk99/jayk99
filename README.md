@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayk99&label=Profile%20views&color=0e75b6&style=flat" alt="jayk99" /> </p>
 
-- 🔭 I’m currently working on [Nike Website Recreational Clone](https://github.com/jayk99/Nike-Landing)
+
 
 - 🌱 I’m currently learning **TypeScript , Node.js , Express.js**
 
