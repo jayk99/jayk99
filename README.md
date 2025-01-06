@@ -5,9 +5,8 @@
 
 
 
-- 🌱 I’m currently learning **TypeScript , Node.js , Express.js**
 
-- 👨‍💻 All of my projects are available at [https://jayakrishna-v.vercel.app/](https://jayakrishna-v.vercel.app/)
+
 
 - 💬 Ask me about **React.js , Next.js**
 
