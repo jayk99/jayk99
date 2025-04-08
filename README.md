@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React.js , Next.js**
 
-- 📫 reach me at **jayakrishna.v2021@vitstudent.ac.in**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
